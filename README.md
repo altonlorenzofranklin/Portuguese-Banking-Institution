@@ -3,6 +3,7 @@ The data is from a Portuguese banking institution and is a collection of the res
 
 Business Problem
 
+The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 Additional Information
 
